@@ -18,3 +18,5 @@ Installation
 2. Go to *Settings → WP Graph Mailer* and fill Tenant ID, Client ID, Client Secret, From UPN.
 3. Click "Save".
 4. Use the Test form or trigger any `wp_mail()` (contact forms, etc.).
+
+Tags: mail, microsoft, graph, api, office365, azure, shared mailbox, attachments, wordpress
